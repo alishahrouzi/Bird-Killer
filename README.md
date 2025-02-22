@@ -38,7 +38,3 @@ BirdKiller is a simple Pygame-based shooting game where the player controls a sh
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to update the repository URL and any other specific details about the game as needed!
